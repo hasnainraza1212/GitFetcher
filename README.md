@@ -1,19 +1,25 @@
 💼 **GitHub User Search for Udhaar Book Pvt Ltd** 💼
 
-📝 **Description:**
-This project sets up a React and Redux application to interact with the GitHub API.
+📝**Description:**
+This project sets up a React and Redux application to interact with the GitHub API. The goal is to create a simple interface where users can search for GitHub users and view their basic information, as well as detailed information in a modal.
+
+⚙️ **Installation:**
+- Clone the repository.
+- Navigate to the project directory.
+- Install dependencies using npm:
 
 🚀 **Usage:**
 Run the development server, open your browser, and start searching for GitHub users!
 
-🛠️ **Exercise:**
-Create components for search input, user list, item, and modal. Implement debounce functionality for smoother searches.
-
-⚙️ **Requirements:**
-Utilize React, Redux, and ES6. Separate folders for components. Create a service for API calls.
+🛠️ **Requirements:**
+- Utilize React, Redux, and ES6 for the application.
+- Implement separate folders for each component, making them independent.
+- Create a service to handle GitHub API calls.
+- Implement debounce functionality on the search input to avoid excessive API requests.
 
 📌 **Notes:**
-Install third-party libraries as needed. GitHub API token provided for authentication.
+- Third-party libraries can be installed for modal functionality and API calls.
+- Token for GitHub API: github_pat_Token
 
 📦 **Dependencies:**
 - React
