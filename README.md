@@ -1,6 +1,7 @@
   <h1>💻 <strong>GitHub User Search for Udhaar Book Pvt Ltd</strong> 💼</h1>
 
     <h2><strong>Description:</strong></h2>
+    
     <p>This project sets up a React and Redux application to interact with the GitHub API. The goal is to create a simple interface where users can search for GitHub users and view their basic information, as well as detailed information in a modal.</p>
 
     <h2><strong>Installation:</strong></h2>
